@@ -1,2 +1,2 @@
-# Hurdle-Race-Game-Part-2
-today I have completed this game's part 2 . In this I have added the four players ,  make them move , created the obstacles with images. In the next part I will make the players jump from obstacles . I will also add some button to pause or play the game . I will also add the remaining images in the game.
+# Car-Racing-Game-Stage-2.0
+today we have completed this game's stage 2.0 . today we have added animation to the cars the racing track and we make the game end.
